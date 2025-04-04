@@ -73,31 +73,4 @@
   <data name="Property_Result" xml:space="preserve">
     <value>Результат</value>
   </data>
-  <data name="ControlGroup_7845279174d949bc808c43dc0cb86af5" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Resource_747dc0c97ba447c2b485f545fc21a63b" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Control_747dc0c97ba447c2b485f545fc21a63b_EmptyText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Resource_9ec1aaddb2f94279ae8bea9852975b4e" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Resource_55fbe1548f7e46e19914505090fcc9f3" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Control_55fbe1548f7e46e19914505090fcc9f3_EmptyText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Resource_7c9936b186bc4d668ce2dcd3edb24ff6" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Resource_c77cceb7891d49a890e22cfadc09d14b" xml:space="preserve">
-    <value />
-  </data>
-  <data name="Control_c77cceb7891d49a890e22cfadc09d14b_EmptyText" xml:space="preserve">
-    <value />
-  </data>
 </root>
