@@ -48,7 +48,7 @@
           "Name": "Responsible",
           "ColumnNumber": 0,
           "ColumnSpan": 1,
-          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
           "ParentGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
           "PropertyGuid": "9a22c590-db59-4055-bf37-1fefb674f820",
           "RowNumber": 1,
@@ -72,6 +72,13 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "e211a955-d0f3-47cd-9640-1b27c177c334",
+      "Name": "Test1",
+      "Code": "Test1",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
       "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
       "NameGuid": "9a22c590-db59-4055-bf37-1fefb674f820",
       "Name": "Responsible",
@@ -79,6 +86,13 @@
       "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "6d70e49a-471a-4fed-a3a5-5c91dc6202fa",
+      "Name": "Note",
+      "Code": "Note",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "e211a955-d0f3-47cd-9640-1b27c177c334"
     }
   ],
   "PublicStructures": [],
