@@ -64,6 +64,12 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Ответственный</value>
   </data>
+  <data name="Enum_Type_Access" xml:space="preserve">
+    <value>Доступ</value>
+  </data>
+  <data name="Enum_Type_Wish" xml:space="preserve">
+    <value>Требования</value>
+   </data>
   <data name="Property_Note" xml:space="preserve">
     <value>Примечание</value>
   </data>
